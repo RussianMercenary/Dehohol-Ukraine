@@ -1,0 +1,17 @@
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\bin\Release\net9.0\Dehohol-Ukraine.Demo.exe
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\bin\Release\net9.0\Dehohol-Ukraine.Demo.deps.json
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\bin\Release\net9.0\Dehohol-Ukraine.Demo.runtimeconfig.json
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\bin\Release\net9.0\Dehohol-Ukraine.Demo.dll
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\bin\Release\net9.0\Dehohol-Ukraine.Demo.pdb
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\bin\Release\net9.0\CSharpier.MsBuild.dll
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-Ukraine.Demo.csproj.AssemblyReference.cache
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-Ukraine.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-Ukraine.Demo.AssemblyInfoInputs.cache
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-Ukraine.Demo.AssemblyInfo.cs
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-Ukraine.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-.D201218F.Up2Date
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-Ukraine.Demo.dll
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\refint\Dehohol-Ukraine.Demo.dll
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-Ukraine.Demo.pdb
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\Dehohol-Ukraine.Demo.genruntimeconfig.cache
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol.Demo\obj\Release\net9.0\ref\Dehohol-Ukraine.Demo.dll

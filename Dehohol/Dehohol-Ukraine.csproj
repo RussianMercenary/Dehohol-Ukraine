@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Authors>$(Company)</Authors>
+    <Description>Prevents your application or library from being used in Russia and Belarus.</Description>
+    <PackageTags>protest source-only</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <NoPackageAnalysis>true</NoPackageAnalysis>
+    <DevelopmentDependency>true</DevelopmentDependency>
+    <IncludeBuildOutput>false</IncludeBuildOutput>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content
+      Include="*.cs"
+      Pack="true"
+      PackagePath="contentFiles/cs/any/Dehohol"
+      Visible="false"
+      BuildAction="compile"
+    />
+    <Content
+      Include="*.cs"
+      Pack="true"
+      PackagePath="content/Deorcify"
+      Visible="false"
+      BuildAction="compile"
+    />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CSharpier.MsBuild" Version="1.0.2" PrivateAssets="all" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dehohol-Ukraine/0.0.0-dev": {
+        "dependencies": {
+          "CSharpier.MsBuild": "1.0.2"
+        },
+        "runtime": {
+          "Dehohol-Ukraine.dll": {}
+        }
+      },
+      "CSharpier.MsBuild/1.0.2": {}
+    }
+  },
+  "libraries": {
+    "Dehohol-Ukraine/0.0.0-dev": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpier.MsBuild/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y98ba4yeefqrJY+MbCXhvb8x4/mCy8zHeuu/dYKwaM4p0Yu2LToI5ffTg/ErcpPuLnwJBNE229STdhf/dlikIw==",
+      "path": "csharpier.msbuild/1.0.2",
+      "hashPath": "csharpier.msbuild.1.0.2.nupkg.sha512"
+    }
+  }
+}

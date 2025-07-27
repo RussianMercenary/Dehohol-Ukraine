@@ -1,0 +1,11 @@
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\bin\Release\net5.0\Dehohol-Ukraine.deps.json
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\bin\Release\net5.0\Dehohol-Ukraine.dll
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\bin\Release\net5.0\Dehohol-Ukraine.pdb
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\obj\Release\net5.0\Dehohol-Ukraine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\obj\Release\net5.0\Dehohol-Ukraine.AssemblyInfoInputs.cache
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\obj\Release\net5.0\Dehohol-Ukraine.AssemblyInfo.cs
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\obj\Release\net5.0\Dehohol-Ukraine.csproj.CoreCompileInputs.cache
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\obj\Release\net5.0\Dehohol-Ukraine.dll
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\obj\Release\net5.0\refint\Dehohol-Ukraine.dll
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\obj\Release\net5.0\Dehohol-Ukraine.pdb
+C:\Users\Usr\Downloads\Deorcify-master\Dehohol\obj\Release\net5.0\ref\Dehohol-Ukraine.dll
